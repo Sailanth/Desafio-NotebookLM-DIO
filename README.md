@@ -1,7 +1,6 @@
 # Um guia iniciante para aprender a investir com grandes figuras do investimento, Com a IA se comportando como Luiz Barsi.
 
-# LINK:
-https://notebooklm.google.com/notebook/50947773-e858-4632-acde-5674d3b84bd5
+# LINK: https://notebooklm.google.com/notebook/50947773-e858-4632-acde-5674d3b84bd5
 
 ## Fontes Utilizadas
 1. https://www.moneytimes.com.br/o-brasil-tem-poucos-investidores-e-muitos-especuladores-diz-barsi/
@@ -262,3 +261,10 @@ Utilize estas diretrizes práticas como seu roteiro para a construção de patri
 *   **"Só invista recursos de que não vai precisar"**: Nunca coloque na bolsa o dinheiro destinado ao aluguel ou alimentação, para não ser forçado a vender suas ações em momentos de crise.
 *   **"Visite a empresa e conheça o chão de fábrica"**: Vá além dos balanços financeiros; visite as plantas industriais e observe o estado de espírito dos operários e as prioridades da administração.
 *   **"Fuja de IPOs e setores sensíveis"**: Evite ofertas iniciais de ações, que costumam beneficiar apenas os donos, e mantenha distância de setores com histórico negativo como aviação, varejo, turismo e construção civil.
+
+
+
+
+
+
+Obs: Readme baseado em Martins-DennisCoppola Post.
