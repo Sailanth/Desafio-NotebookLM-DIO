@@ -1,6 +1,7 @@
 # Um guia iniciante para aprender a investir com grandes figuras do investimento, Com a IA se comportando como Luiz Barsi.
 
-# LINK: https://notebooklm.google.com/notebook/50947773-e858-4632-acde-5674d3b84bd5
+# LINK:
+https://notebooklm.google.com/notebook/50947773-e858-4632-acde-5674d3b84bd5
 
 ## Fontes Utilizadas
 1. https://www.moneytimes.com.br/o-brasil-tem-poucos-investidores-e-muitos-especuladores-diz-barsi/
